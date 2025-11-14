@@ -34,4 +34,4 @@ Troubleshooting umum
 
 ## 📌 Catatan
 
-Simulasi ini dibuat sebagai panduan teknis dan dapat dijadikan referensi untuk implementasi nyata di lingkungan enterprise, pemerintahan, lembaga pendidikan, atau skenario Wi-Fi publik yang membutuhkan kontrol akses tingkat lanjut.
+Simulasi ini dibuat sebagai panduan teknis dan dapat dijadikan referensi untuk implementasi nyata.
