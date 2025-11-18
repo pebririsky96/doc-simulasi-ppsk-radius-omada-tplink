@@ -30,8 +30,6 @@ Dokumentasi mencakup:
 4. Pembuatan account user
 5. Pengujian autentikasi
 
-Troubleshooting umum
-
 ## 📌 Catatan
 
 Simulasi ini dibuat sebagai panduan teknis dan dapat dijadikan referensi untuk implementasi nyata.
