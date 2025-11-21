@@ -1,4 +1,4 @@
-# 🚀 Simulasi Implementasi PPSK dengan Omada Controller, TP-LINK AP, dan RADIUS (FreeRADIUS + MariaDB + DaloRADIUS)
+# Simulasi Implementasi PPSK dengan Omada Controller, TP-LINK AP, dan RADIUS (FreeRADIUS + MariaDB + DaloRADIUS)
 
 Dokumentasi ini berisi langkah-langkah konfigurasi dan simulasi penerapan PPSK (Private Pre-Shared Key) pada Omada Controller yang terhubung dengan perangkat Access Point TP-LINK, serta integrasi autentikasi menggunakan FreeRADIUS dengan backend database MariaDB dan antarmuka manajemen DaloRADIUS.
 
